@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STUDENT DATA"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:paddingTop="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Student's Enroll No:-"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:paddingTop="16dp"
+        />
+    <EditText
+        android:id="@+id/ID"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Student's Enroll No"
+        android:paddingTop="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Student's Name:-"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:paddingTop="16dp"
+        />
+    <EditText
+        android:id="@+id/name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Student's Name"
+        android:paddingTop="16dp"
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Discipline:-"
+    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+    android:paddingTop="16dp"
+    />
+    <EditText
+        android:id="@+id/discipline"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Discipline"
+        android:paddingTop="16dp"
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Year:-"
+    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+    android:paddingTop="16dp"
+    />
+    <EditText
+        android:id="@+id/year"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Year"
+        android:paddingTop="16dp"
+        />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUMMMIT"
+        android:textSize="19dp"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"/>
+
+
+
+
+
+</LinearLayout>
