@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50241076833",
+    "firebase_url": "https://cloneapp-4915a.firebaseio.com",
+    "project_id": "cloneapp-4915a",
+    "storage_bucket": "cloneapp-4915a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50241076833:android:93ac1d8993deb51e2e7420",
+        "android_client_info": {
+          "package_name": "myfirstapkas.com.cloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50241076833-60o3fktsdemi4kahh1gss2qn75nrbd7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6m1e8NuHSPBDtuulSWuXAY1wZzSof-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50241076833-60o3fktsdemi4kahh1gss2qn75nrbd7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
