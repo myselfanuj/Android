@@ -1,1 +1,1 @@
-## Basic Android Activity
+## Android Activities
