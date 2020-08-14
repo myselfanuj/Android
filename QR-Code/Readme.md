@@ -1,1 +1,1 @@
-## QR Code Activity
+## QR Scan Activity
