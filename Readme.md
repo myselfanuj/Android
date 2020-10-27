@@ -5,5 +5,4 @@ This Repo contains different type of Android Application which we can use in man
 
 # Technology Stack
 * Android (java)
-* Java
 * Firebase
